@@ -11,5 +11,5 @@
 ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/oracle-black?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSOO&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSOO308&hide_progress=true)
 
