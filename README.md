@@ -1,40 +1,15 @@
-![프로필헤더](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Menners%20Maketh%20Man&fontAlign=50&descAlign=15&descAlignY=33)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20I'm%20HyernSoo&fontAlign=66&fontAlignY=66&fontColor=blck)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonSoo308&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonSOO%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+### 안녕하세요, 항상 새로운 것을 도전하는 백엔드 엔지니어 안현수입니다!
 
-###
+### SKILLS
+***langs and frameworks***
+![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/spring-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/oracle-black?style=for-the-badge)
 
-<p align="left">My name is "HeonSoo An "</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonSOO&hide_progress=true)
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm currently learning backend</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-###
